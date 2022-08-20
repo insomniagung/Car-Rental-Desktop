@@ -2,6 +2,8 @@
 
 This project was created to fulfill a Lecture Assignment: Object-Based Programming.
 
+Video Tutorial: https://bit.ly/rentcarjava
+
 Here I use **Netbeans** software for Integrated Development Environment, then use plugin **"mysql-connector-java-5.1.23-bin.jar"** to connect to MySQL Database, and also use **"jcalendar -1.4.jar"** to display Library JKalender as rental date. So, you can use the included plugin to fix errors when the project is run.
 
 Algorithm on Car Rental System:
@@ -21,6 +23,8 @@ Algorithm on Car Rental System:
 ## Sistem Rental Mobil [Indonesia]
 
 Projek ini dibuat untuk memenuhi Tugas Kuliah : Pemrograman Berbasis Objek.
+
+Video Tutorial: https://bit.ly/rentcarjava
 
 Disini saya menggunakan software **Netbeans** untuk Lingkungan Pengembangan Terintegrasi, kemudian menggunakan plugin **"mysql-connector-java-5.1.23-bin.jar"** untuk menghubungkan ke Basis Data MySQL, dan juga menggunakan **"jcalendar-1.4.jar"** untuk menampilkan Library JKalender sebagai tanggal penyewaan. Jadi, kalian bisa menggunakan plugin yang telah include untuk memperbaiki error ketika project dijalankan.
 
