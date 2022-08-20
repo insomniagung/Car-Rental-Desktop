@@ -1,4 +1,4 @@
-## Car Rental System [English]
+## Car Rental Application [English]
 
 This project was created to fulfill a Lecture Assignment: Object-Based Programming.
 
@@ -20,7 +20,7 @@ Algorithm on Car Rental System:
 </ol>
 <br>
 
-## Sistem Rental Mobil [Indonesia]
+## Aplikasi Rental Mobil [Indonesia]
 
 Projek ini dibuat untuk memenuhi Tugas Kuliah : Pemrograman Berbasis Objek.
 
